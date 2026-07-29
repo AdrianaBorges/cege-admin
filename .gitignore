@@ -1,0 +1,24 @@
+# Build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Node / Angular (para quando criarmos o frontend)
+node_modules/
+dist/
+.angular/
